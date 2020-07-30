@@ -21,7 +21,7 @@ a {
 /* Custom design below! */
 
 .banner {
-  background-image: url(/home/juliette/code/JulietteHoisnard/fullstack-challenges/04-Front-End/02-CSS-components/03-Landing-page/landing/images/background.png);
+  background-image: url(../images/background.png);
   background-size: cover;
   background-position: center;
   padding: 200px 0;
